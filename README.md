@@ -1,7 +1,7 @@
 # SQL_Query_Exercise
 
 ## Objectives
-### After complting this exercise you will be able to:
+### After completing this exercise we will be able to:
 
 * Understand 3 datasets
 * Load the 3 datasets into 3 tables from a SQL database
