@@ -7,9 +7,9 @@
 * Load the 3 datasets into 3 tables from a SQL database
 * Execute SQL queries to answer various questions
 
-There are 10 problems that need to be solved. The problems are to:
+There are 10 questions that need to be answered. The tasks are the following:
 
-Find the total number of crimes recorded in the CRIME table
+* Find the total number of crimes recorded in the CRIME table
 
 * Retrieve first 10 rows from the CRIME table
 
